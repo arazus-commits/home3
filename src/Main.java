@@ -81,7 +81,7 @@ public class Main {
         System.out.println("Дней при потере 250 грамм в день - "+ day250);
         System.out.println("Дней при потере 500 грамм в день - "+ day500);
         System.out.println("Среднее количество дней - "+ srednee);
-//задача 8
+//задача 8.
         int masha = 67760;
         int denis = 83690;
         int kris = 76230;
