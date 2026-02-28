@@ -25,7 +25,7 @@ public class Main {
         short ee = 27897;
         byte zz = 67;
 
-        //задача 3
+        // задача 3
 
         byte uch1 = 23;
         byte uch2 = 27;
