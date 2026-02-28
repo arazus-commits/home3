@@ -7,10 +7,16 @@ public class Main {
         byte b = 127;
         short x = 32765;
         long d = 9222222222222222222L;
+        float z = 3.4432454f;
+        double s = 1.5059349504505843;
+
+
         System.out.println("Значение переменной a c типом int равно "+ a);
         System.out.println("Значение переменной b c типом byte равно "+ b);
         System.out.println("Значение переменной x c типом short равно "+ x);
         System.out.println("Значение переменной d c типом long равно "+ d);
+        System.out.println("Значение переменной z c типом float равно "+ z);
+        System.out.println("Значение переменной s c типом double равно "+ s);
 
         float aa = 27.12f;
         long bb = 987678965549L;
